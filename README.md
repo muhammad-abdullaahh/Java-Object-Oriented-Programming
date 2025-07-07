@@ -15,16 +15,13 @@ This project is part of my journey to master OOP concepts in Java. Each topic is
 - ✅ Encapsulation  
 - ✅ Abstraction (Abstract Classes & Interfaces)  
 - ✅ Polymorphism  
-- ✅ Final Keyword and Final Classes  
 - ✅ Composition & Aggregation  
-- ✅ Inner Classes  
-- ✅ Wrapper Classes (Coming Soon)  
 - ✅ Practice Exercises & Mini Projects
 
 ## 🔧 Technologies Used
 
 - Java (JDK 17 or later)
-- VS Code / IntelliJ IDEA
+- Apache Netbeans IDE 25
 - Git & GitHub
 
 ## 📁 How to Navigate
@@ -32,7 +29,6 @@ This project is part of my journey to master OOP concepts in Java. Each topic is
 Each folder contains:
 - Java files for the topic
 - Brief comments explaining each part of the code
-- Output screenshots (in some folders)
 
 Example structure:
 ```
@@ -66,8 +62,8 @@ This is a personal learning repo, but suggestions or improvements are always wel
 
 If you have any questions, feel free to connect:
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: https://github.com/muhammad-abdullaahh
+- Email: abdullahprivate2005@gmail.com
 
 ---
 
