@@ -8,7 +8,7 @@ This project is part of my journey to master OOP concepts in Java. Each topic is
 
 - ✅ Classes and Objects  
 - ✅ Constructors (Default, Parameterized, Copy)  
-- ✅ Inheritance (Single, Multilevel, Hierarchical)  
+- ✅ Inheritance  
 - ✅ Access Modifiers (Public, Private, Protected, Default)  
 - ✅ Static Variables and Methods  
 - ✅ Method Overloading and Overriding  
@@ -17,6 +17,8 @@ This project is part of my journey to master OOP concepts in Java. Each topic is
 - ✅ Polymorphism  
 - ✅ Composition & Aggregation  
 - ✅ Practice Exercises & Mini Projects
+- ✅ Interface
+- ✅ Abstract class
 
 ## 🔧 Technologies Used
 
