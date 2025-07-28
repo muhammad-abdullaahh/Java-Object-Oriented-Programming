@@ -18,6 +18,7 @@ This project is part of my journey to master OOP concepts in Java. Each topic is
 - ✅ Composition & Aggregation  
 - ✅ Interface
 - ✅ Abstract class
+- ✅ Array list
 
 ## 🔧 Technologies Used
 
