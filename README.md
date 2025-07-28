@@ -16,7 +16,6 @@ This project is part of my journey to master OOP concepts in Java. Each topic is
 - ✅ Abstraction (Abstract Classes & Interfaces)  
 - ✅ Polymorphism  
 - ✅ Composition & Aggregation  
-- ✅ Practice Exercises & Mini Projects
 - ✅ Interface
 - ✅ Abstract class
 
